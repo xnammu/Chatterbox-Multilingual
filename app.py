@@ -687,7 +687,7 @@ def tts_ui():
   with gr.Blocks(theme=gr.themes.Soft(),css=custom_css) as demo:
       gr.HTML("""
         <div style="text-align: center; margin: 20px auto; max-width: 800px;">
-            <h1 style="font-size: 2.5em; margin-bottom: 5px;">🎙️ Chatterbox Multilingual </h1>
+            <h1 style="font-size: 2.5em; margin-bottom: 5px;">🎙️ ɴαvɴeeт Chatterbox Multilingual </h1>
         </div>""")
       with gr.Row():
           with gr.Column():
